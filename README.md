@@ -4,7 +4,7 @@ in this project I use js, HTML5 and css3.
 
 
 ## Get Starting:
-1. run Sql server script : swimming-pool.
+1. run Sql server script : swimming-pool.sql
 2. connect the database again to the DAL layer.
 3. run the project from login.html page.
 
