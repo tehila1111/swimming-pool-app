@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Swimming_PoolModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="BusinessDetails">
+          <Key>
+            <PropertyRef Name="BusinessName" />
+          </Key>
+          <Property Name="BusinessName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="address" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="rentDay" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="rentPrice" Type="int" Nullable="false" />
+          <Property Name="RentStartHour" Type="time" Precision="7" Nullable="false" />
+          <Property Name="RentEndHour" Type="time" Precision="7" Nullable="false" />
+        </EntityType>
+        <EntityType Name="customers">
+          <Key>
+            <PropertyRef Name="cust_id" />
+          </Key>
+          <Property Name="cust_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="first_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="last_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="telephone" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="email" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="gender" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="status" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="birthdate" Type="date" Nullable="false" />
+          <Property Name="archive" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Customers_enter">
+          <Key>
+            <PropertyRef Name="enter_id" />
+          </Key>
+          <Property Name="enter_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Subscription_id" Type="int" Nullable="false" />
+          <Property Name="date" Type="date" Nullable="false" />
+          <Property Name="work_shift_id" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="open_days">
+          <Key>
+            <PropertyRef Name="open_id" />
+          </Key>
+          <Property Name="open_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="shift_id" Type="int" Nullable="false" />
+          <Property Name="day" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="gender" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="status" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="otherEnter">
+          <Key>
+            <PropertyRef Name="other_enter" />
+          </Key>
+          <Property Name="other_enter" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="date" Type="date" Nullable="false" />
+          <Property Name="work_shift_id" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Rentals">
+          <Key>
+            <PropertyRef Name="rent_id" />
+          </Key>
+          <Property Name="rent_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="cust_id" Type="int" Nullable="false" />
+          <Property Name="start_date" Type="date" Nullable="false" />
+          <Property Name="end_date" Type="date" Nullable="false" />
+          <Property Name="price" Type="int" Nullable="false" />
+          <Property Name="Payment_status" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="status" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="rentals_details">
+          <Key>
+            <PropertyRef Name="RentalDetails_id" />
+          </Key>
+          <Property Name="RentalDetails_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="rent_id" Type="int" Nullable="false" />
+          <Property Name="date" Type="date" Nullable="false" />
+          <Property Name="status" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Subscribed_customers">
+          <Key>
+            <PropertyRef Name="Subscription_id" />
+          </Key>
+          <Property Name="Subscription_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="cust_id" Type="int" Nullable="false" />
+          <Property Name="Subscription_type" Type="int" Nullable="false" />
+          <Property Name="start_date" Type="date" Nullable="false" />
+          <Property Name="sum_of_entries" Type="int" Nullable="false" />
+          <Property Name="status" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Subscription_type">
+          <Key>
+            <PropertyRef Name="Subscription_type_id" />
+          </Key>
+          <Property Name="Subscription_type_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="type" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Num_of_entrances" Type="int" Nullable="false" />
+          <Property Name="price" Type="int" Nullable="false" />
+          <Property Name="status" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="userId" />
+          </Key>
+          <Property Name="userId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="userName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="position" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="password" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="work_shift_type">
+          <Key>
+            <PropertyRef Name="shift_id" />
+          </Key>
+          <Property Name="shift_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="start_hour" Type="time" Precision="7" Nullable="false" />
+          <Property Name="end_hour" Type="time" Precision="7" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Customers_enter_Subscribed_customers">
+          <End Role="Subscribed_customers" Type="Self.Subscribed_customers" Multiplicity="1" />
+          <End Role="Customers_enter" Type="Self.Customers_enter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subscribed_customers">
+              <PropertyRef Name="Subscription_id" />
+            </Principal>
+            <Dependent Role="Customers_enter">
+              <PropertyRef Name="Subscription_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Customers_enter_work_shift_type">
+          <End Role="work_shift_type" Type="Self.work_shift_type" Multiplicity="1" />
+          <End Role="Customers_enter" Type="Self.Customers_enter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="work_shift_type">
+              <PropertyRef Name="shift_id" />
+            </Principal>
+            <Dependent Role="Customers_enter">
+              <PropertyRef Name="work_shift_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_open_days_work_shift_type">
+          <End Role="work_shift_type" Type="Self.work_shift_type" Multiplicity="1" />
+          <End Role="open_days" Type="Self.open_days" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="work_shift_type">
+              <PropertyRef Name="shift_id" />
+            </Principal>
+            <Dependent Role="open_days">
+              <PropertyRef Name="shift_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_otherEnter_work_shift_type">
+          <End Role="work_shift_type" Type="Self.work_shift_type" Multiplicity="1" />
+          <End Role="otherEnter" Type="Self.otherEnter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="work_shift_type">
+              <PropertyRef Name="shift_id" />
+            </Principal>
+            <Dependent Role="otherEnter">
+              <PropertyRef Name="work_shift_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Rentals_customers">
+          <End Role="customers" Type="Self.customers" Multiplicity="1" />
+          <End Role="Rentals" Type="Self.Rentals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="cust_id" />
+            </Principal>
+            <Dependent Role="Rentals">
+              <PropertyRef Name="cust_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_rentals_details_Rentals">
+          <End Role="Rentals" Type="Self.Rentals" Multiplicity="1" />
+          <End Role="rentals_details" Type="Self.rentals_details" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rentals">
+              <PropertyRef Name="rent_id" />
+            </Principal>
+            <Dependent Role="rentals_details">
+              <PropertyRef Name="rent_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Subscribed_customers_customers">
+          <End Role="customers" Type="Self.customers" Multiplicity="1" />
+          <End Role="Subscribed_customers" Type="Self.Subscribed_customers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="cust_id" />
+            </Principal>
+            <Dependent Role="Subscribed_customers">
+              <PropertyRef Name="cust_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Subscribed_customers_Subscription_type">
+          <End Role="Subscription_type" Type="Self.Subscription_type" Multiplicity="1" />
+          <End Role="Subscribed_customers" Type="Self.Subscribed_customers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subscription_type">
+              <PropertyRef Name="Subscription_type_id" />
+            </Principal>
+            <Dependent Role="Subscribed_customers">
+              <PropertyRef Name="Subscription_type" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Swimming_PoolModelStoreContainer">
+          <EntitySet Name="BusinessDetails" EntityType="Self.BusinessDetails" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="customers" EntityType="Self.customers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Customers_enter" EntityType="Self.Customers_enter" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="open_days" EntityType="Self.open_days" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="otherEnter" EntityType="Self.otherEnter" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Rentals" EntityType="Self.Rentals" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="rentals_details" EntityType="Self.rentals_details" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Subscribed_customers" EntityType="Self.Subscribed_customers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Subscription_type" EntityType="Self.Subscription_type" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="users" EntityType="Self.users" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="work_shift_type" EntityType="Self.work_shift_type" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Customers_enter_Subscribed_customers" Association="Self.FK_Customers_enter_Subscribed_customers">
+            <End Role="Subscribed_customers" EntitySet="Subscribed_customers" />
+            <End Role="Customers_enter" EntitySet="Customers_enter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Customers_enter_work_shift_type" Association="Self.FK_Customers_enter_work_shift_type">
+            <End Role="work_shift_type" EntitySet="work_shift_type" />
+            <End Role="Customers_enter" EntitySet="Customers_enter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_open_days_work_shift_type" Association="Self.FK_open_days_work_shift_type">
+            <End Role="work_shift_type" EntitySet="work_shift_type" />
+            <End Role="open_days" EntitySet="open_days" />
+          </AssociationSet>
+          <AssociationSet Name="FK_otherEnter_work_shift_type" Association="Self.FK_otherEnter_work_shift_type">
+            <End Role="work_shift_type" EntitySet="work_shift_type" />
+            <End Role="otherEnter" EntitySet="otherEnter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Rentals_customers" Association="Self.FK_Rentals_customers">
+            <End Role="customers" EntitySet="customers" />
+            <End Role="Rentals" EntitySet="Rentals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_rentals_details_Rentals" Association="Self.FK_rentals_details_Rentals">
+            <End Role="Rentals" EntitySet="Rentals" />
+            <End Role="rentals_details" EntitySet="rentals_details" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Subscribed_customers_customers" Association="Self.FK_Subscribed_customers_customers">
+            <End Role="customers" EntitySet="customers" />
+            <End Role="Subscribed_customers" EntitySet="Subscribed_customers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Subscribed_customers_Subscription_type" Association="Self.FK_Subscribed_customers_Subscription_type">
+            <End Role="Subscription_type" EntitySet="Subscription_type" />
+            <End Role="Subscribed_customers" EntitySet="Subscribed_customers" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Swimming_PoolModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="BusinessDetails">
+          <Key>
+            <PropertyRef Name="BusinessName" />
+          </Key>
+          <Property Name="BusinessName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="rentDay" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="rentPrice" Type="Int32" Nullable="false" />
+          <Property Name="RentStartHour" Type="Time" Nullable="false" Precision="7" />
+          <Property Name="RentEndHour" Type="Time" Nullable="false" Precision="7" />
+        </EntityType>
+        <EntityType Name="customers">
+          <Key>
+            <PropertyRef Name="cust_id" />
+          </Key>
+          <Property Name="cust_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="first_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="last_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="birthdate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="archive" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Rentals" Relationship="Self.FK_Rentals_customers" FromRole="customers" ToRole="Rentals" />
+          <NavigationProperty Name="Subscribed_customers" Relationship="Self.FK_Subscribed_customers_customers" FromRole="customers" ToRole="Subscribed_customers" />
+        </EntityType>
+        <EntityType Name="Customers_enter">
+          <Key>
+            <PropertyRef Name="enter_id" />
+          </Key>
+          <Property Name="enter_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Subscription_id" Type="Int32" Nullable="false" />
+          <Property Name="date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="work_shift_id" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Subscribed_customers" Relationship="Self.FK_Customers_enter_Subscribed_customers" FromRole="Customers_enter" ToRole="Subscribed_customers" />
+          <NavigationProperty Name="work_shift_type" Relationship="Self.FK_Customers_enter_work_shift_type" FromRole="Customers_enter" ToRole="work_shift_type" />
+        </EntityType>
+        <EntityType Name="open_days">
+          <Key>
+            <PropertyRef Name="open_id" />
+          </Key>
+          <Property Name="open_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="shift_id" Type="Int32" Nullable="false" />
+          <Property Name="day" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="work_shift_type" Relationship="Self.FK_open_days_work_shift_type" FromRole="open_days" ToRole="work_shift_type" />
+        </EntityType>
+        <EntityType Name="otherEnter">
+          <Key>
+            <PropertyRef Name="other_enter" />
+          </Key>
+          <Property Name="other_enter" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="work_shift_id" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="work_shift_type" Relationship="Self.FK_otherEnter_work_shift_type" FromRole="otherEnter" ToRole="work_shift_type" />
+        </EntityType>
+        <EntityType Name="Rentals">
+          <Key>
+            <PropertyRef Name="rent_id" />
+          </Key>
+          <Property Name="rent_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="cust_id" Type="Int32" Nullable="false" />
+          <Property Name="start_date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="end_date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="price" Type="Int32" Nullable="false" />
+          <Property Name="Payment_status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="customers" Relationship="Self.FK_Rentals_customers" FromRole="Rentals" ToRole="customers" />
+          <NavigationProperty Name="rentals_details" Relationship="Self.FK_rentals_details_Rentals" FromRole="Rentals" ToRole="rentals_details" />
+        </EntityType>
+        <EntityType Name="rentals_details">
+          <Key>
+            <PropertyRef Name="RentalDetails_id" />
+          </Key>
+          <Property Name="RentalDetails_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="rent_id" Type="Int32" Nullable="false" />
+          <Property Name="date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Rentals" Relationship="Self.FK_rentals_details_Rentals" FromRole="rentals_details" ToRole="Rentals" />
+        </EntityType>
+        <EntityType Name="Subscribed_customers">
+          <Key>
+            <PropertyRef Name="Subscription_id" />
+          </Key>
+          <Property Name="Subscription_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="cust_id" Type="Int32" Nullable="false" />
+          <Property Name="Subscription_type" Type="Int32" Nullable="false" />
+          <Property Name="start_date" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="sum_of_entries" Type="Int32" Nullable="false" />
+          <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="customers" Relationship="Self.FK_Subscribed_customers_customers" FromRole="Subscribed_customers" ToRole="customers" />
+          <NavigationProperty Name="Customers_enter" Relationship="Self.FK_Customers_enter_Subscribed_customers" FromRole="Subscribed_customers" ToRole="Customers_enter" />
+          <NavigationProperty Name="Subscription_type1" Relationship="Self.FK_Subscribed_customers_Subscription_type" FromRole="Subscribed_customers" ToRole="Subscription_type" />
+        </EntityType>
+        <EntityType Name="Subscription_type">
+          <Key>
+            <PropertyRef Name="Subscription_type_id" />
+          </Key>
+          <Property Name="Subscription_type_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Num_of_entrances" Type="Int32" Nullable="false" />
+          <Property Name="price" Type="Int32" Nullable="false" />
+          <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Subscribed_customers" Relationship="Self.FK_Subscribed_customers_Subscription_type" FromRole="Subscription_type" ToRole="Subscribed_customers" />
+        </EntityType>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="userId" />
+          </Key>
+          <Property Name="userId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="userName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="position" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="work_shift_type">
+          <Key>
+            <PropertyRef Name="shift_id" />
+          </Key>
+          <Property Name="shift_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="start_hour" Type="Time" Nullable="false" Precision="7" />
+          <Property Name="end_hour" Type="Time" Nullable="false" Precision="7" />
+          <NavigationProperty Name="Customers_enter" Relationship="Self.FK_Customers_enter_work_shift_type" FromRole="work_shift_type" ToRole="Customers_enter" />
+          <NavigationProperty Name="open_days" Relationship="Self.FK_open_days_work_shift_type" FromRole="work_shift_type" ToRole="open_days" />
+          <NavigationProperty Name="otherEnter" Relationship="Self.FK_otherEnter_work_shift_type" FromRole="work_shift_type" ToRole="otherEnter" />
+        </EntityType>
+        <Association Name="FK_Rentals_customers">
+          <End Role="customers" Type="Self.customers" Multiplicity="1" />
+          <End Role="Rentals" Type="Self.Rentals" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="cust_id" />
+            </Principal>
+            <Dependent Role="Rentals">
+              <PropertyRef Name="cust_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Subscribed_customers_customers">
+          <End Role="customers" Type="Self.customers" Multiplicity="1" />
+          <End Role="Subscribed_customers" Type="Self.Subscribed_customers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="customers">
+              <PropertyRef Name="cust_id" />
+            </Principal>
+            <Dependent Role="Subscribed_customers">
+              <PropertyRef Name="cust_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Customers_enter_Subscribed_customers">
+          <End Role="Subscribed_customers" Type="Self.Subscribed_customers" Multiplicity="1" />
+          <End Role="Customers_enter" Type="Self.Customers_enter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subscribed_customers">
+              <PropertyRef Name="Subscription_id" />
+            </Principal>
+            <Dependent Role="Customers_enter">
+              <PropertyRef Name="Subscription_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Customers_enter_work_shift_type">
+          <End Role="work_shift_type" Type="Self.work_shift_type" Multiplicity="1" />
+          <End Role="Customers_enter" Type="Self.Customers_enter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="work_shift_type">
+              <PropertyRef Name="shift_id" />
+            </Principal>
+            <Dependent Role="Customers_enter">
+              <PropertyRef Name="work_shift_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_open_days_work_shift_type">
+          <End Role="work_shift_type" Type="Self.work_shift_type" Multiplicity="1" />
+          <End Role="open_days" Type="Self.open_days" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="work_shift_type">
+              <PropertyRef Name="shift_id" />
+            </Principal>
+            <Dependent Role="open_days">
+              <PropertyRef Name="shift_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_otherEnter_work_shift_type">
+          <End Role="work_shift_type" Type="Self.work_shift_type" Multiplicity="1" />
+          <End Role="otherEnter" Type="Self.otherEnter" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="work_shift_type">
+              <PropertyRef Name="shift_id" />
+            </Principal>
+            <Dependent Role="otherEnter">
+              <PropertyRef Name="work_shift_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_rentals_details_Rentals">
+          <End Role="Rentals" Type="Self.Rentals" Multiplicity="1" />
+          <End Role="rentals_details" Type="Self.rentals_details" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Rentals">
+              <PropertyRef Name="rent_id" />
+            </Principal>
+            <Dependent Role="rentals_details">
+              <PropertyRef Name="rent_id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Subscribed_customers_Subscription_type">
+          <End Role="Subscription_type" Type="Self.Subscription_type" Multiplicity="1" />
+          <End Role="Subscribed_customers" Type="Self.Subscribed_customers" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subscription_type">
+              <PropertyRef Name="Subscription_type_id" />
+            </Principal>
+            <Dependent Role="Subscribed_customers">
+              <PropertyRef Name="Subscription_type" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Swimming_PoolEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="BusinessDetails" EntityType="Self.BusinessDetails" />
+          <EntitySet Name="customers" EntityType="Self.customers" />
+          <EntitySet Name="Customers_enter" EntityType="Self.Customers_enter" />
+          <EntitySet Name="open_days" EntityType="Self.open_days" />
+          <EntitySet Name="otherEnter" EntityType="Self.otherEnter" />
+          <EntitySet Name="Rentals" EntityType="Self.Rentals" />
+          <EntitySet Name="rentals_details" EntityType="Self.rentals_details" />
+          <EntitySet Name="Subscribed_customers" EntityType="Self.Subscribed_customers" />
+          <EntitySet Name="Subscription_type" EntityType="Self.Subscription_type" />
+          <EntitySet Name="users" EntityType="Self.users" />
+          <EntitySet Name="work_shift_type" EntityType="Self.work_shift_type" />
+          <AssociationSet Name="FK_Rentals_customers" Association="Self.FK_Rentals_customers">
+            <End Role="customers" EntitySet="customers" />
+            <End Role="Rentals" EntitySet="Rentals" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Subscribed_customers_customers" Association="Self.FK_Subscribed_customers_customers">
+            <End Role="customers" EntitySet="customers" />
+            <End Role="Subscribed_customers" EntitySet="Subscribed_customers" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Customers_enter_Subscribed_customers" Association="Self.FK_Customers_enter_Subscribed_customers">
+            <End Role="Subscribed_customers" EntitySet="Subscribed_customers" />
+            <End Role="Customers_enter" EntitySet="Customers_enter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Customers_enter_work_shift_type" Association="Self.FK_Customers_enter_work_shift_type">
+            <End Role="work_shift_type" EntitySet="work_shift_type" />
+            <End Role="Customers_enter" EntitySet="Customers_enter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_open_days_work_shift_type" Association="Self.FK_open_days_work_shift_type">
+            <End Role="work_shift_type" EntitySet="work_shift_type" />
+            <End Role="open_days" EntitySet="open_days" />
+          </AssociationSet>
+          <AssociationSet Name="FK_otherEnter_work_shift_type" Association="Self.FK_otherEnter_work_shift_type">
+            <End Role="work_shift_type" EntitySet="work_shift_type" />
+            <End Role="otherEnter" EntitySet="otherEnter" />
+          </AssociationSet>
+          <AssociationSet Name="FK_rentals_details_Rentals" Association="Self.FK_rentals_details_Rentals">
+            <End Role="Rentals" EntitySet="Rentals" />
+            <End Role="rentals_details" EntitySet="rentals_details" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Subscribed_customers_Subscription_type" Association="Self.FK_Subscribed_customers_Subscription_type">
+            <End Role="Subscription_type" EntitySet="Subscription_type" />
+            <End Role="Subscribed_customers" EntitySet="Subscribed_customers" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Swimming_PoolModelStoreContainer" CdmEntityContainer="Swimming_PoolEntities">
+          <EntitySetMapping Name="BusinessDetails">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.BusinessDetails">
+              <MappingFragment StoreEntitySet="BusinessDetails">
+                <ScalarProperty Name="BusinessName" ColumnName="BusinessName" />
+                <ScalarProperty Name="address" ColumnName="address" />
+                <ScalarProperty Name="rentDay" ColumnName="rentDay" />
+                <ScalarProperty Name="rentPrice" ColumnName="rentPrice" />
+                <ScalarProperty Name="RentStartHour" ColumnName="RentStartHour" />
+                <ScalarProperty Name="RentEndHour" ColumnName="RentEndHour" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="customers">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.customers">
+              <MappingFragment StoreEntitySet="customers">
+                <ScalarProperty Name="cust_id" ColumnName="cust_id" />
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="last_name" ColumnName="last_name" />
+                <ScalarProperty Name="telephone" ColumnName="telephone" />
+                <ScalarProperty Name="email" ColumnName="email" />
+                <ScalarProperty Name="gender" ColumnName="gender" />
+                <ScalarProperty Name="status" ColumnName="status" />
+                <ScalarProperty Name="birthdate" ColumnName="birthdate" />
+                <ScalarProperty Name="archive" ColumnName="archive" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Customers_enter">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.Customers_enter">
+              <MappingFragment StoreEntitySet="Customers_enter">
+                <ScalarProperty Name="enter_id" ColumnName="enter_id" />
+                <ScalarProperty Name="Subscription_id" ColumnName="Subscription_id" />
+                <ScalarProperty Name="date" ColumnName="date" />
+                <ScalarProperty Name="work_shift_id" ColumnName="work_shift_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="open_days">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.open_days">
+              <MappingFragment StoreEntitySet="open_days">
+                <ScalarProperty Name="open_id" ColumnName="open_id" />
+                <ScalarProperty Name="shift_id" ColumnName="shift_id" />
+                <ScalarProperty Name="day" ColumnName="day" />
+                <ScalarProperty Name="gender" ColumnName="gender" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="otherEnter">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.otherEnter">
+              <MappingFragment StoreEntitySet="otherEnter">
+                <ScalarProperty Name="other_enter" ColumnName="other_enter" />
+                <ScalarProperty Name="date" ColumnName="date" />
+                <ScalarProperty Name="work_shift_id" ColumnName="work_shift_id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Rentals">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.Rentals">
+              <MappingFragment StoreEntitySet="Rentals">
+                <ScalarProperty Name="rent_id" ColumnName="rent_id" />
+                <ScalarProperty Name="cust_id" ColumnName="cust_id" />
+                <ScalarProperty Name="start_date" ColumnName="start_date" />
+                <ScalarProperty Name="end_date" ColumnName="end_date" />
+                <ScalarProperty Name="price" ColumnName="price" />
+                <ScalarProperty Name="Payment_status" ColumnName="Payment_status" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="rentals_details">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.rentals_details">
+              <MappingFragment StoreEntitySet="rentals_details">
+                <ScalarProperty Name="RentalDetails_id" ColumnName="RentalDetails_id" />
+                <ScalarProperty Name="rent_id" ColumnName="rent_id" />
+                <ScalarProperty Name="date" ColumnName="date" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Subscribed_customers">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.Subscribed_customers">
+              <MappingFragment StoreEntitySet="Subscribed_customers">
+                <ScalarProperty Name="Subscription_id" ColumnName="Subscription_id" />
+                <ScalarProperty Name="cust_id" ColumnName="cust_id" />
+                <ScalarProperty Name="Subscription_type" ColumnName="Subscription_type" />
+                <ScalarProperty Name="start_date" ColumnName="start_date" />
+                <ScalarProperty Name="sum_of_entries" ColumnName="sum_of_entries" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Subscription_type">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.Subscription_type">
+              <MappingFragment StoreEntitySet="Subscription_type">
+                <ScalarProperty Name="Subscription_type_id" ColumnName="Subscription_type_id" />
+                <ScalarProperty Name="type" ColumnName="type" />
+                <ScalarProperty Name="Num_of_entrances" ColumnName="Num_of_entrances" />
+                <ScalarProperty Name="price" ColumnName="price" />
+                <ScalarProperty Name="status" ColumnName="status" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.users">
+              <MappingFragment StoreEntitySet="users">
+                <ScalarProperty Name="userId" ColumnName="userId" />
+                <ScalarProperty Name="userName" ColumnName="userName" />
+                <ScalarProperty Name="position" ColumnName="position" />
+                <ScalarProperty Name="password" ColumnName="password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="work_shift_type">
+            <EntityTypeMapping TypeName="Swimming_PoolModel.work_shift_type">
+              <MappingFragment StoreEntitySet="work_shift_type">
+                <ScalarProperty Name="shift_id" ColumnName="shift_id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="start_hour" ColumnName="start_hour" />
+                <ScalarProperty Name="end_hour" ColumnName="end_hour" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

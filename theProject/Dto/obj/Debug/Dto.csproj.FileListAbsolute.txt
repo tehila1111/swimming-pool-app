@@ -1,0 +1,300 @@
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\Dal.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\Dal.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\Dal.dll.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\obj\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\Dto\obj\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\Dal.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\Dal.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\Dal.dll.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\obj\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\Dto\obj\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\Dal.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\Dal.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\Dal.dll.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\obj\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ו אב\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\ז אב\theProject\Dto\obj\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\Dal.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\Dal.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\Dal.dll.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\obj\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\ז אב\ז אב\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\ח אב\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\ח אב\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\ח אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\ח אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Documents\ח אב\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Documents\ח אב\theProject\Dto\obj\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\Dal.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\Dal.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\Dal.dll.config
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\obj\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\ח אב\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\אלול פרויקט\theProject\Dto\obj\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\Dal.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\Dal.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\Dal.dll.config
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\obj\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\אלול פרויקט\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\חדש\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\חדש\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\חדש\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\חדש\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\חדש\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\חדש\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\21.9.2022\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\obj\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\obj\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\Dal.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\Dal.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\Dal.dll.config
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\תהילה גרינברג\21.9.2022\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\‏‏תיקיה חדשה\30-09-2022\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\18-10-2022\theProject\Dto\obj\Debug\Dto.pdb
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\Dto.dll
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\Dto.pdb
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\Dal.dll
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\EntityFramework.dll
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\Dal.pdb
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\Dal.dll.config
+G:\תהילה חדש\18-10-2022\theProject\Dto\bin\Debug\EntityFramework.xml
+G:\תהילה חדש\18-10-2022\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+G:\תהילה חדש\18-10-2022\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+G:\תהילה חדש\18-10-2022\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+G:\תהילה חדש\18-10-2022\theProject\Dto\obj\Debug\Dto.dll
+G:\תהילה חדש\18-10-2022\theProject\Dto\obj\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\Dal.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\Dal.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\Dal.dll.config
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\obj\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\פרויקט 31.10\theProject\Dto\obj\Debug\Dto.pdb
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\Dto.dll
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\Dto.pdb
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\Dal.dll
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\EntityFramework.dll
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\Dal.pdb
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\Dal.dll.config
+G:\תהילה חדש\1.11\theProject\Dto\bin\Debug\EntityFramework.xml
+G:\תהילה חדש\1.11\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+G:\תהילה חדש\1.11\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+G:\תהילה חדש\1.11\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+G:\תהילה חדש\1.11\theProject\Dto\obj\Debug\Dto.dll
+G:\תהילה חדש\1.11\theProject\Dto\obj\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\Dto.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\Dal.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\EntityFramework.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\Dal.pdb
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\Dal.dll.config
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\bin\Debug\EntityFramework.xml
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\obj\Debug\Dto.dll
+H:\תכנות שנה ב תשפג\תהילה גרינברג\‏‏תיקיה חדשה\8.11\theProject\Dto\obj\Debug\Dto.pdb
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\Dto.dll
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\Dto.pdb
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\Dal.dll
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\EntityFramework.dll
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\Dal.pdb
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\Dal.dll.config
+G:\תהילה חדש\9.11\theProject\Dto\bin\Debug\EntityFramework.xml
+G:\תהילה חדש\9.11\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+G:\תהילה חדש\9.11\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+G:\תהילה חדש\9.11\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+G:\תהילה חדש\9.11\theProject\Dto\obj\Debug\Dto.dll
+G:\תהילה חדש\9.11\theProject\Dto\obj\Debug\Dto.pdb
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\Dto.dll
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\Dto.pdb
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\Dal.dll
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\EntityFramework.dll
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\Dal.pdb
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\Dal.dll.config
+F:\פרויקט בריכה\theProject\Dto\bin\Debug\EntityFramework.xml
+F:\פרויקט בריכה\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+F:\פרויקט בריכה\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+F:\פרויקט בריכה\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+F:\פרויקט בריכה\theProject\Dto\obj\Debug\Dto.dll
+F:\פרויקט בריכה\theProject\Dto\obj\Debug\Dto.pdb
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dto.dll
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dto.pdb
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dal.dll
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\EntityFramework.dll
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dal.pdb
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dal.dll.config
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\EntityFramework.xml
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.dll
+G:\תהילה חדש\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Desktop\בריכה פרויקטטטטט\theProject\Dto\obj\Debug\Dto.pdb
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\obj\Debug\Dto.dll
+C:\Users\e0509\Documents\פרויקט בריכה תיכון ניסוי\theProject\Dto\obj\Debug\Dto.pdb

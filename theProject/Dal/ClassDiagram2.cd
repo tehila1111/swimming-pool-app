@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dal.BusinessDetailsDal">
+    <Position X="11" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>BusinessDetailsDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.CustEnterDAL">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAABAAEAAAAAAAAAAAEAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>CustEnterDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.CustomersDal">
+    <Position X="9" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEABAAFAAAAAAAAAAAAACAAAQAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>CustomersDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.OpenDateDal">
+    <Position X="7" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>OpenDateDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.OtherEnterDal">
+    <Position X="1" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>OtherEnterDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.rentals_detailsDal">
+    <Position X="7" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAEAAAAAAAAAAAAAAACAAAAACAASAAAAAA=</HashCode>
+      <FileName>rentals_detailsDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.RentalsDal">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAABAAAAAAAgABAEAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>RentalsDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.Subscribed_customersDal">
+    <Position X="11" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAEAAMAAAACAAAAAAAAAAAAAAIAAAAAABAABAAAAAA=</HashCode>
+      <FileName>Subscribed_customersDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.usersDal">
+    <Position X="5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAgAAAACAEAAAA=</HashCode>
+      <FileName>usersDal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dal.WorkShiftTypeDAL">
+    <Position X="3" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAABAAAA=</HashCode>
+      <FileName>WorkShiftTypeDAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

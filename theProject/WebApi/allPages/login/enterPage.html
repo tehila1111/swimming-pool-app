@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <script src="enterPage.js"></script>
+    <link href="enterPaje.css" rel="stylesheet" />
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <meta charset="utf-8" />
+    <title>login</title>
+</head>
+
+<body dir="rtl">
+    <div class="login-container">
+        <section class="login" id="login">
+            <header>
+                <h3>הי, כיף להיפגש!</h3>
+                <h4>התחברות</h4>
+            </header>
+            <form class="login-form">
+                <input type="text" id="userName" class="login-input" placeholder="User" required autofocus />
+                <input type="password" id="password" class="login-input" placeholder="Password" required />
+                <div class="submit-container">
+                    <button type="button" onclick="getPsd()" class="login-button">היכנס</button>
+                </div>
+            </form>
+        </section>
+    </div>
+</body>
+</html>

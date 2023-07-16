@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Swimming_PoolModelStoreContainer" CdmEntityContainer="Swimming_PoolEntities">
+    <EntitySetMapping Name="BusinessDetails">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.BusinessDetails">
+        <MappingFragment StoreEntitySet="BusinessDetails">
+          <ScalarProperty Name="BusinessName" ColumnName="BusinessName" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="rentDay" ColumnName="rentDay" />
+          <ScalarProperty Name="rentPrice" ColumnName="rentPrice" />
+          <ScalarProperty Name="RentStartHour" ColumnName="RentStartHour" />
+          <ScalarProperty Name="RentEndHour" ColumnName="RentEndHour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="customers">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.customers">
+        <MappingFragment StoreEntitySet="customers">
+          <ScalarProperty Name="cust_id" ColumnName="cust_id" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="birthdate" ColumnName="birthdate" />
+          <ScalarProperty Name="archive" ColumnName="archive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers_enter">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.Customers_enter">
+        <MappingFragment StoreEntitySet="Customers_enter">
+          <ScalarProperty Name="enter_id" ColumnName="enter_id" />
+          <ScalarProperty Name="Subscription_id" ColumnName="Subscription_id" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="work_shift_id" ColumnName="work_shift_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="open_days">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.open_days">
+        <MappingFragment StoreEntitySet="open_days">
+          <ScalarProperty Name="open_id" ColumnName="open_id" />
+          <ScalarProperty Name="shift_id" ColumnName="shift_id" />
+          <ScalarProperty Name="day" ColumnName="day" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="otherEnter">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.otherEnter">
+        <MappingFragment StoreEntitySet="otherEnter">
+          <ScalarProperty Name="other_enter" ColumnName="other_enter" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="work_shift_id" ColumnName="work_shift_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rentals">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.Rentals">
+        <MappingFragment StoreEntitySet="Rentals">
+          <ScalarProperty Name="rent_id" ColumnName="rent_id" />
+          <ScalarProperty Name="cust_id" ColumnName="cust_id" />
+          <ScalarProperty Name="start_date" ColumnName="start_date" />
+          <ScalarProperty Name="end_date" ColumnName="end_date" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="Payment_status" ColumnName="Payment_status" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rentals_details">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.rentals_details">
+        <MappingFragment StoreEntitySet="rentals_details">
+          <ScalarProperty Name="RentalDetails_id" ColumnName="RentalDetails_id" />
+          <ScalarProperty Name="rent_id" ColumnName="rent_id" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscribed_customers">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.Subscribed_customers">
+        <MappingFragment StoreEntitySet="Subscribed_customers">
+          <ScalarProperty Name="Subscription_id" ColumnName="Subscription_id" />
+          <ScalarProperty Name="cust_id" ColumnName="cust_id" />
+          <ScalarProperty Name="Subscription_type" ColumnName="Subscription_type" />
+          <ScalarProperty Name="start_date" ColumnName="start_date" />
+          <ScalarProperty Name="sum_of_entries" ColumnName="sum_of_entries" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subscription_type">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.Subscription_type">
+        <MappingFragment StoreEntitySet="Subscription_type">
+          <ScalarProperty Name="Subscription_type_id" ColumnName="Subscription_type_id" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="Num_of_entrances" ColumnName="Num_of_entrances" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.users">
+        <MappingFragment StoreEntitySet="users">
+          <ScalarProperty Name="userId" ColumnName="userId" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="position" ColumnName="position" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="work_shift_type">
+      <EntityTypeMapping TypeName="Swimming_PoolModel.work_shift_type">
+        <MappingFragment StoreEntitySet="work_shift_type">
+          <ScalarProperty Name="shift_id" ColumnName="shift_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="start_hour" ColumnName="start_hour" />
+          <ScalarProperty Name="end_hour" ColumnName="end_hour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

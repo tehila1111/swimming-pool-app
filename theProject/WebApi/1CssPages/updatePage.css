@@ -1,0 +1,49 @@
+﻿body {
+    font-family: Heebo,system-ui;
+    background-color: #fafaff;
+}
+.update{
+    width:500px;
+    height:500px;
+    background-color:white;
+    border-radius:20px;
+    padding:50px;
+    margin:auto;
+display:flex;
+flex-direction:column
+}
+
+.col{
+
+}
+.title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.click, select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+input[type=submit] {
+    width: 100%;
+    background-color: #ff9b9b;
+    color: white;
+    padding: 14px 20px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    input[type=submit]:hover {
+        background-color: #ff6c6c;
+    }

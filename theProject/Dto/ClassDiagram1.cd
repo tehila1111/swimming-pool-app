@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dto.Work_ShiftType_Dto">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAABAAAAAAAgAAAUAIEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Work_ShiftType_Dto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.Open_Days_Dto">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARgAAAAAAAABAAAAAABgAAAAAIAAAAAAAAAgABAAAA=</HashCode>
+      <FileName>Open_Days_Dto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.OtherEnterDto">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAIAAABAAAAAAAIAAAAAAAABQQAAAAA=</HashCode>
+      <FileName>OtherEnterDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.rentals_detailsDto">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BARAAAAAAAIAAAAAAAAAACAAAAIACAAAAAAAAQAAAAA=</HashCode>
+      <FileName>rentals_detailsDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.Rentals_Dto">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCRBIAAAAAIAAAAAAAAAAAAAAAIAAAAACgCAAAAAAAA=</HashCode>
+      <FileName>Rentals_Dto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.Subscribed_customersDto">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARIAAAAAAIEAAAAAEAAACAAAAIBAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Subscribed_customersDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.Subscription_Type_Dto">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gARBAAAAAAABAAAAAAAAAABAAAIBAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Subscription_Type_Dto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.usersDto">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAIACAAAIAAAAAIAAAAAAAAAQgEAAAA=</HashCode>
+      <FileName>usersDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.BusinessDetailsDto">
+    <Position X="9.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAACAAAAIAIABEAAAAAAABIAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BusinessDetailsDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.customers_Dto">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAIAAAAAAQCgBAAAgAAAAAIAAIAAAgAAAACAQAA=</HashCode>
+      <FileName>customers_Dto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dto.Customers_enterDto">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABIAAAAAAAAAAAACAAAAAAAAAIAEAAAAAABAQAAACA=</HashCode>
+      <FileName>Customers_enterDto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

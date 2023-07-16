@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <script src="../1JavaScriptPages/customers.js"></script>
+    <link href="../1CssPages/updatePage.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body dir="rtl">
+    <div class="update">
+        <h2>עדכון פרטי מנוי</h2>
+        <form>
+            <div class="col">
+
+                <label for="fname">שם פרטי</label>
+                <input class="click" type="text" id="first" name="firstname" required>
+
+                <label for="lname">שם משפחה</label>
+                <input class="click" type="text" id="last" name="lastname" required>
+
+                <label for="phone">טלפון</label>
+                <input class="click" type="text" id="telephone" name="telephone" required>
+
+                <label for="mail">מייל</label>
+                <input class="click" type="email" id="mail" name="mail" required>
+
+                <label for="birthdate">תאריך לידה</label>
+                <input class="click" type="date" id="birth" name="birthdate">
+            </div>
+
+            <div class="col">
+                <label for="type">סוג מנוי</label>
+                <select id="subType" name="sub-type" required>
+                </select>
+
+                <label for="status"></label>
+                <select id="status" name="status" required>
+                    <option>פעיל</option>
+                    <option>לא פעיל</option>
+
+                </select>
+
+
+                <div class="gender">
+
+                    <input class="Tmen" type="radio" name="gender" />
+                    <span class="men">זכר</span>
+                    <input class="Twoman" type="radio" name="gender" />
+                    <span class="woman">נקבה</span>
+                </div>
+            </div>
+
+
+
+
+
+            <input id="submit" type="submit" on click="updateCust()" value="אישור עדכון">
+            <div style="float: left; margin-top:6px; ">חזרה לדף מנויים</div>
+
+        </form>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bll.BusinessDetailsBll">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BusinessDetailsBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.CustomersBLL">
+    <Position X="10.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IEABAAEAAAAACAAABAAAAAAAQAECAAAAAACAAICAAAA=</HashCode>
+      <FileName>CustomersBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.CustomersEnterBLL">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAEAAAAAAAAIAEAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>CustomersEnterBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.OpenDaysBLL">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>OpenDaysBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.OtherEnterBll">
+    <Position X="2.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQIAAAAAAA=</HashCode>
+      <FileName>OtherEnterBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.rentals_detailsBLL">
+    <Position X="6.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAAJA=</HashCode>
+      <FileName>rentals_detailsBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.RentalsBLL">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEIAgAAAAAAAAAAAAAQAAAAAAABAAAAAAAAAQ=</HashCode>
+      <FileName>RentalsBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.SubscribedCustomersBLL">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QQAEAAAAAAAAIAAAAAAAAAAAQAIAAAAAABEAAAAAAAA=</HashCode>
+      <FileName>SubscribedCustomersBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.SubsTypeBLL">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAABAAACAAAAAAAAAAgAAAEAAAAAg=</HashCode>
+      <FileName>SubsTypeBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.usersBll">
+    <Position X="2.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAQAQAAAgAAAAAAEAAAA=</HashCode>
+      <FileName>usersBll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bll.WorkShiftTypeBLL">
+    <Position X="4.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAABAAIAAAA=</HashCode>
+      <FileName>WorkShiftTypeBLL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

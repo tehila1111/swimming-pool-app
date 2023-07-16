@@ -1,0 +1,110 @@
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.Form1.resources
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\GUI.exe.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\GUI.exe
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\GUI.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Bll.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Dal.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Bll.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Dal.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Dal.dll.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.exe
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\obj\Debug\GUI.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\theProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\GUI.exe.config
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\GUI.exe
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\GUI.pdb
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Bll.dll
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Bll.pdb
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\theProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.exe
+C:\Users\e0509\Documents\theProject\GUI\obj\Debug\GUI.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\GUI.exe.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\GUI.exe
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\GUI.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Bll.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Dal.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Dto.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\EntityFramework.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Bll.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Dal.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Dal.dll.config
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\Dto.pdb
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\EntityFramework.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.Form1.resources
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.csproj.CopyComplete
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.exe
+H:\שנה א תשפב\פרויקט\תהילה גרינברג\‏‏תיקיה חדשה\theProject\GUI\obj\Debug\GUI.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\GUI.exe.config
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\GUI.exe
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\GUI.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Bll.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Bll.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.exe
+C:\Users\e0509\Documents\יום שני ד אב\theProject\GUI\obj\Debug\GUI.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\GUI.exe.config
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\GUI.exe
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\GUI.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Bll.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Dal.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Dto.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Bll.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Dal.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Dal.dll.config
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\Dto.pdb
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.xml
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.exe
+C:\Users\e0509\Documents\ה אב\יום שני ד אב\theProject\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7041078e3f7f42629286fa0b86011e3b" Name="Diagram1">
+        <EntityTypeShape EntityType="Swimming_PoolModel.BusinessDetails" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.customers" Width="1.5" PointX="1.5" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.Customers_enter" Width="1.5" PointX="3" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.open_days" Width="1.5" PointX="3" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.otherEnter" Width="1.5" PointX="3" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.Rentals" Width="1.5" PointX="3.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.rentals_details" Width="1.5" PointX="6" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.Subscribed_customers" Width="1.5" PointX="0.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.Subscription_type" Width="1.5" PointX="1.5" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.users" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Swimming_PoolModel.work_shift_type" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_Rentals_customers" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_Subscribed_customers_customers" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_Customers_enter_Subscribed_customers" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_Customers_enter_work_shift_type" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_open_days_work_shift_type" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_otherEnter_work_shift_type" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_rentals_details_Rentals" ManuallyRouted="false" />
+        <AssociationConnector Association="Swimming_PoolModel.FK_Subscribed_customers_Subscription_type" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
