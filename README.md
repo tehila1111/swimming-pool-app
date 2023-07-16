@@ -50,6 +50,11 @@ in this project I use js, HTML5 and css3.
 
 
 
+---- customers table ----
+![image](https://github.com/tehila1111/swimming-pool-app/assets/139683282/5af3fc93-5e9e-4dfe-af40-adb4a368d71c)
+
+
+
 
 
 # to see more, just run the app.
@@ -57,10 +62,5 @@ in this project I use js, HTML5 and css3.
 
 
 
-
-
-
----- customers table ----
-![image](https://github.com/tehila1111/swimming-pool-app/assets/139683282/5af3fc93-5e9e-4dfe-af40-adb4a368d71c)
 
 
