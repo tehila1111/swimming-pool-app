@@ -1,6 +1,6 @@
 # swimming-pool-app
 Web application for swimming pool management, subscriptions and rentals.
-in this project I use js, HTML5 and css3.
+in this project I use javascript c# entity framework, HTML5 and css3.
 
 
 ## Get Starting:
